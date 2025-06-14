@@ -1,0 +1,10 @@
+{
+  "name": "badminton-club",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "next dev -w apps/web",
+    "build": "next build apps/web",
+    "start": "next start apps/web"
+  }
+}
