@@ -1,0 +1,9 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "private": true,
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}
